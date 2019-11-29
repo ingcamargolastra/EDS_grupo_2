@@ -1,0 +1,173 @@
+Manufactura,Modelo,Variante,Total
+Audi,A2,All,75
+Austin/Morris,Metro,City,322
+Austin/Morris,Metro,L& LE,306
+Austin/Morris,Metro,MG,57
+Austin/Morris,Metro,Other,224
+Austin/Morris,Mini,All,234
+Austin/Morris,Minor,All,72
+BMW,Mini,All,768
+Chevrolet,Kalos,All,2
+Chevrolet,Matiz,All,9
+Citroen,2 CV,All,33
+Citroen,AX,All,624
+Citroen,C2,All,66
+Citroen,C3,All,138
+Citroen,Dyane& LNA& AMI& Visa,All,14
+Citroen,Saxo,All,1.152
+Daewoo,Kalos,All,12
+Daewoo,Matiz,All,157
+Daihatsu,Charade& Domino& Mira,All,77
+Daihatsu,Cuore,All,14
+Daihatsu,Sirion,All,10
+Daihatsu,YRV,All,12
+Fiat Auto,125& 126& 127& 133& 500& 600& 850,All,59
+Fiat Auto,Cinquecento,All,254
+Fiat Auto,Idea,All,5
+Fiat Auto,Panda,All,144
+Fiat Auto,Punto,All,3.051
+Fiat Auto,Seicento,All,105
+Fiat Auto,Uno,All,572
+Ford Corporation,Anglia& Popular& Prefect,All,17
+Ford Corporation,Fiesta Classic,All,242
+Ford Corporation,Fiesta Mk1& Mk2& Mk3,GHIA,1.274
+Ford Corporation,Fiesta Mk1& Mk2& Mk3,L,969
+Ford Corporation,Fiesta Mk1& Mk2& Mk3,LX,4.065
+Ford Corporation,Fiesta Mk1& Mk2& Mk3,Popular,2.223
+Ford Corporation,Fiesta Mk1& Mk2& Mk3,S& S I,541
+Ford Corporation,Fiesta Mk1& Mk2& Mk3,XR2& XR2I,552
+Ford Corporation,Fiesta Mk1& Mk2& Mk3,GL& SX& Other,6.571
+Ford Corporation,Fiesta Mk4,Encore,243
+Ford Corporation,Fiesta Mk4,GHIA,268
+Ford Corporation,Fiesta Mk4,LX,323
+Ford Corporation,Fiesta Mk4,SI,76
+Ford Corporation,Fiesta Mk4,ZETEC,163
+Ford Corporation,Fiesta Mk4,Other,362
+Ford Corporation,Fiesta Mk5,Encore,34
+Ford Corporation,Fiesta Mk5,Finesse,224
+Ford Corporation,Fiesta Mk5,GHIA,104
+Ford Corporation,Fiesta Mk5,LX,164
+Ford Corporation,Fiesta Mk5,ZETEC,542
+Ford Corporation,Fiesta Mk5,Other,419
+Ford Corporation,Fusion,All,91
+Ford Corporation,KA& KA 3,All,944
+Ford Corporation,Sportka,All,26
+Ford Corporation,Streetka,All,49
+Honda,Jazz,All,99
+Honda,Logo,All,4
+Hyundai,Amica,All,34
+Hyundai,Atoz,All,28
+Hyundai,Getz,All,40
+Kia,Pride,All,97
+Mazda,121,All,24
+Mazda,2,All,5
+Mazda,Demio,All,21
+Mazda,Premacy,All,21
+MCC,Smart,All,147
+Mercedes,A Class,All,423
+Nissan/Datsun,Micra,Colette,232
+Nissan/Datsun,Micra,Equation,44
+Nissan/Datsun,Micra,GL,45
+Nissan/Datsun,Micra,GS,551
+Nissan/Datsun,Micra,GSX,430
+Nissan/Datsun,Micra,GX,93
+Nissan/Datsun,Micra,L Shape,89
+Nissan/Datsun,Micra,L& LX,1.319
+Nissan/Datsun,Micra,LS,1.395
+Nissan/Datsun,Micra,Profile,30
+Nissan/Datsun,Micra,S& SE,281
+Nissan/Datsun,Micra,SI,6
+Nissan/Datsun,Micra,SLX,59
+Nissan/Datsun,Micra,SR,8
+Nissan/Datsun,Micra,Other,857
+Perodua,Kelisa,All,3
+Peugeot,106,Escapade,52
+Peugeot,106,GTI,44
+Peugeot,106,Rallye,6
+Peugeot,106,XL,50
+Peugeot,106,XLD,24
+Peugeot,106,XN,184
+Peugeot,106,XND,108
+Peugeot,106,XR,104
+Peugeot,106,XRD,37
+Peugeot,106,XS,8
+Peugeot,106,XSI,29
+Peugeot,106,XT,26
+Peugeot,106,XTD,8
+Peugeot,106,Zest,247
+Peugeot,106,Other,491
+Peugeot,107,All,0
+Peugeot,205,GL,75
+Peugeot,205,GR& XT& Lacoste,73
+Peugeot,205,GRD& GLD& XLD,172
+Peugeot,205,GRDT& XRDT,4
+Peugeot,205,GT,17
+Peugeot,205,GTI,138
+Peugeot,205,XL,59
+Peugeot,205,XR,12
+Peugeot,205,XS,53
+Peugeot,205,Other& GTX,590
+Peugeot,206,All,2.190
+Peugeot,1007,All,2
+Renault,4& 5& 6& 8& 10,All,507
+Renault,Clio,Authentique,134
+Renault,Clio,Dynamique,360
+Renault,Clio,Expression,244
+Renault,Clio,RL,497
+Renault,Clio,RN,487
+Renault,Clio,RT,506
+Renault,Clio,Other& Williams,979
+Renault,Modus,All,24
+Rover Cars,100& 111& 114& 115& 1100,All,571
+Rover Cars,25,All,603
+Rover Cars,Cityrover,All,23
+Rover Cars,Metro,C,529
+Rover Cars,Metro,CD,102
+Rover Cars,Metro,L& LE,639
+Rover Cars,Metro,LD,80
+Rover Cars,Metro,S I,121
+Rover Cars,Metro,S& SD,1.010
+Rover Cars,Metro,SL,98
+Rover Cars,Metro,Other,2.244
+Rover Cars,Mini,All,327
+Rover Cars,Streetwise,All,14
+Seat,Arosa,All,40
+Seat,Marbella& Terra,All,39
+Skoda,Fabia,All,164
+Subaru,Justy,All,65
+Suzuki,Alto& Swift,All,272
+Suzuki,Ignis,All,22
+Suzuki,Wagon R+,All,45
+Talbot,Samba& Sunbeam,All,0
+Toyota,1000& Starlet,All,87
+Toyota,Aygo,All,2
+Toyota,Yaris,All,422
+Toyota,Yaris Verso,All,9
+Vauxhall,Agila,All,32
+Vauxhall,Chevette,All,5
+Vauxhall,Corsa,CDX,32
+Vauxhall,Corsa,Elegance,53
+Vauxhall,Corsa,Envoy,195
+Vauxhall,Corsa,GLS,327
+Vauxhall,Corsa,GSI,49
+Vauxhall,Corsa,LS,2.012
+Vauxhall,Corsa,Merit,1.356
+Vauxhall,Corsa,SRI,228
+Vauxhall,Corsa,Other,2.852
+Vauxhall,Nova,Merit,1.382
+Vauxhall,Nova,SR,174
+Vauxhall,Nova,SR I,32
+Vauxhall,Nova,SX,50
+Vauxhall,Nova,Other& S,1.904
+Volkswagen,Beetle,All,302
+Volkswagen,Lupo,All,92
+Volkswagen,Polo,C,294
+Volkswagen,Polo,CL& CX,710
+Volkswagen,Polo,E,201
+Volkswagen,Polo,GL,44
+Volkswagen,Polo,GLX,13
+Volkswagen,Polo,GTI,21
+Volkswagen,Polo,L& LS& LX,388
+Volkswagen,Polo,S,179
+Volkswagen,Polo,SE,117
+Volkswagen,Polo,Other,647
